@@ -2,7 +2,7 @@
 The "RailReserve" is a user-friendly web application that allows users to search for train availability, departure, and distance information. The system is built using PHP, JavaScript, HTML, and CSS to provide a seamless and interactive experience for users.
 
 
-This GitHub repository contains the source code and files for the "Railway Reservation Management System," a web application developed as part of the fourth semester DBMS lab Mini Project by Shreyank Shresth.
+This GitHub repository contains the source code and files for the "Railway Reservation Management System," a web application developed as part of the fourth semester DBMS lab Mini Project.
 
 Description:
 
